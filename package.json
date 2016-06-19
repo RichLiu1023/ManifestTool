@@ -1,0 +1,21 @@
+{
+  "name": "ManifestTool",
+  "version": "0.0.1",
+  "description": "Manifest生成工具",
+  "main": "gulpfile.js",
+  "author": {
+    "name" : "richliu1023",
+    "email" : "richliu1023@gmail.com",
+    "blog" : "http://www.cnblogs.com/Richard-Core/",
+    "github": "https://github.com/richliu1023"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gulp-manifest": "0.1.1",
+    "gulp": "v3.9.1"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/RichLiu1023/ManifestTool.git"
+  }
+}

@@ -1,0 +1,13 @@
+CACHE MANIFEST
+# Time: Sun Jun 19 2016 10:08:34 GMT+0800 (CST)
+
+CACHE:
+index.html
+
+NETWORK:
+*
+
+SETTINGS:
+prefer-online
+
+# hash: 0a61f6c75fddab6cc33d676062791672ea8c9c2805aa16be374cf9b6947577b3
